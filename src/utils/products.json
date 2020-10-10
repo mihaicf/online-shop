@@ -1,0 +1,205 @@
+{
+    "computers": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Gaming PC Alienware Aurora R10",
+                "price": 135,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/30741/30740591/images/res_d710f7f42e3dbe8a97b66975c53db819.jpg",
+                "colour": "Black",
+                "brand": "Alienware",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 2,
+                "name": "Laptop Apple MacBook Pro 16in Touch Bar",
+                "price": 100,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/26981/26980959/images/res_7e0f8f6e52fe167ec158ffa7677c6a38.jpg",
+                "colour": "Grey",
+                "brand": "Apple",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 3,
+                "name": "UltraBook ASUS ZenBook 14",
+                "price": 185,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/32942/32941328/images/res_6ce81253567f0b78aabfb370acfa309c.jpg",
+                "colour": "Grey",
+                "brand": "ASUS",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ],
+        "image": "https://i.imgur.com/k3OYgoW.jpg",
+        "name": "Computers",
+        "description": "Laptops, desktops and ultrabooks!"
+    },
+    "mobiles": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Apple iPhone 11",
+                "price": 95,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/25344/25343941/images/res_99d57ec9e3d9bb8d3242f384288ce0a3.jpg",
+                "colour": "Space gray",
+                "brand": "Apple",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 5,
+                "name": "Samsung Galaxy Z Fold2",
+                "price": 105,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/32275/32274634/images/res_1ceb5ccebebc245cdfccf67f131545e5.jpg",
+                "colour": "Brown",
+                "brand": "Samsung",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 6,
+                "name": "Google Pixel 3 XL",
+                "price": 165,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/18311/18310847/images/res_ad2c6a82960e1d96c95053b9e7cdef8f.jpg",
+                "colour": "Black",
+                "brand": "Google",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 7,
+                "name": "Nokia 3310 (2017)",
+                "price": 160,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/8022/8021229/images/res_3160279dd9822b5b5f4c853cee65937b.jpg",
+                "size": "2.4",
+                "colour": "Orange",
+                "brand": "Nokia",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ],
+        "image": "https://i.imgur.com/1OEoXEu.jpg",
+        "name": "Mobiles",
+        "description": "Phones, tablets and wearables."
+    },
+    "cameras": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Canon EOS M50",
+                "price": 35,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/15046/15045414/images/res_eefe675cb9bfaee4267c7d7f53993833.jpg",
+                "colour": "Black",
+                "brand": "Canon",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 9,
+                "name": "Nikon D7500",
+                "price": 40,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/5682/5681236/images/res_f2101a0d8d046a8183d3a89f48a971d4.jpg",
+                "colour": "Black",
+                "brand": "Nikon",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 10,
+                "name": "Polaroid Now, I-Type",
+                "price": 90,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/29806/29805985/images/res_ece9896650cc302252aa8fcf01619d9a.jpg",
+                "colour": "White",
+                "brand": "Polaroid",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ],
+        "image": "https://i.imgur.com/B6wv0Bo.jpg",
+        "name": "Cameras",
+        "description": "DSLR, mirrorless, compact and instant!"
+    },
+    "tv": {
+        "items": [
+            {
+                "id": 11,
+                "name": "Samsung 50TU7072",
+                "price": 210,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/29184/29183468/images/res_34b870172e091e7dd72a4e476b30465f.jpg",
+                "colour": "Black",
+                "brand": "Samsung",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 12,
+                "name": "Sony BRAVIA",
+                "price": 250,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/21350/21349565/images/res_a5b1cbfffefd5b40303a1e4633f5a389.jpg",
+                "colour": "Transparent",
+                "brand": "Sony",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ],
+        "image": "https://i.imgur.com/gy2jkBY.jpg",
+        "name": "TV/Video",
+        "description": "4K, HD, OLED, digital and action!"
+    },
+    "audio": {
+        "items": [
+            {
+                "id": 13,
+                "name": "Soundbar JBL BAR 5.1",
+                "price": 110,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/9794/9793368/images/res_c900af171c4b4a24dc78e86121f68132.jpg",
+                "colour": "Black",
+                "brand": "JBL",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 14,
+                "name": "Beats Studio3",
+                "price": 1909,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/8985/8984967/images/res_21d95a5bbd12ceae57f122746ae08674.jpg",
+                "colour": "Blue",
+                "brand": "Beats",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ],
+        "image": "https://i.imgur.com/7mg96qT.jpg",
+        "name": "Audio",
+        "description": "Hi-Fi, soundbar, home cinema and headphones."
+    },
+    "accesories": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Samsung BN59-01298G",
+                "price": 85,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/29258/29257105/images/res_be555704d7d4521206ad9c8796176a6a.jpg",
+                "colour": "Black",
+                "brand": "Samsung",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": 16,
+                "name": "Charging Dock HP ElitePad",
+                "price": 60,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/31611/31610408/images/res_4bc9e572a69232d54f798475eba56929.jpg",
+                "colour": "Black",
+                "brand": "HP",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ],
+        "image": "https://i.imgur.com/v8RMe2U.jpg",
+        "name": "Accesories",
+        "description": "Remotes, batteries, chargers, cards, docks and more!"
+    }
+}
